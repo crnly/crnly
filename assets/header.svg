@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Till Cornely / crnly</title>
+  <desc id="description">Detailed ASCII adaptation of Katsushika Hokusai’s Under the Wave off Kanagawa, cropped square. Business Informatics and Digital Media student at Stuttgart Media University (HdM). Foundations in Python, Linux/WSL and Docker. Learning Go. Interested in platform engineering, cloud/DevOps, agentic AI and security. Void is a planned project.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#7893A6" stroke-opacity="0.065"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1100" height="440" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: Menlo, Consolas, 'Liberation Mono', monospace; }
+    .label { fill: #8EA8BA; font-size: 17px; }
+    .value { fill: #DFE7EE; font-size: 18px; }
+    .cell { opacity: 0.025; }
+    @media (prefers-reduced-motion: no-preference) {
+      .cell { animation: glow 18s ease-in-out infinite; }
+      .cell-b { animation-delay: -6s; }
+      .cell-c { animation-delay: -12s; }
+    }
+    @keyframes glow {
+      0%, 15%, 75%, 100% { opacity: 0.025; }
+      42% { opacity: 0.14; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .cell { animation: none; opacity: 0.025; }
+    }
+  </style>
+  <g clip-path="url(#bounds)">
+    <rect width="1100" height="440" fill="#0D1117"/>
+    <rect width="1100" height="440" fill="url(#grid)"/>
+    <g fill="#7893A6" aria-hidden="true">
+      <rect class="cell" x="960" y="24" width="24" height="24"/>
+      <rect class="cell cell-b" x="1008" y="336" width="24" height="24"/>
+      <rect class="cell cell-c" x="456" y="384" width="24" height="24"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1099" height="439" rx="14" stroke="#7893A6" stroke-opacity="0.24"/>
+  <!-- Original artwork: Katsushika Hokusai, Under the Wave off Kanagawa, ca. 1830–32.
+       Public-domain source: The Metropolitan Museum of Art, JP1847.
+       https://www.metmuseum.org/art/collection/search/45434
+       Square crop rendered as 96 × 60 ASCII characters. -->
+  <text fill="#AAC3D4" font-size="6.22" xml:space="preserve" aria-hidden="true">
+    <tspan x="20" y="46.000" textLength="360" lengthAdjust="spacingAndGlyphs">;:::::::::::::::;:::::,,,:::,,,,,,,::,,::,,:::::,,,,,,,,,,........,,.,,....,,............,......</tspan>
+    <tspan x="20" y="52.000" textLength="360" lengthAdjust="spacingAndGlyphs">:,,,:,,::::::;::::::,,,,,,,,,,,,,.,,,.,,,..,..... ....,,.,.. .. ........   ......,,............ </tspan>
+    <tspan x="20" y="58.000" textLength="360" lengthAdjust="spacingAndGlyphs">,,,:,,,::::::::,,,,,,..,,,.,:,....,,............ .  .,.,.,....    .. .. ...   .. ..     .....  .</tspan>
+    <tspan x="20" y="64.000" textLength="360" lengthAdjust="spacingAndGlyphs">,,,,,,,:,,::::,,,,,,,.,..,,.,.....,,... .... . .  .  ,..,... ... . .  . ..,    ....    . .....  </tspan>
+    <tspan x="20" y="70.000" textLength="360" lengthAdjust="spacingAndGlyphs">,,,,::,::,,:::::,,,,,.,.,,,.    .  .,,,,:,.  .  ....,,,.,..... .   ..            ...      .,....</tspan>
+    <tspan x="20" y="76.000" textLength="360" lengthAdjust="spacingAndGlyphs">:,,,,,,::::::::::,,,.......,:iiirrsAr;i;;ii;;  .....,,.,,,..........  .. .....    ..       .....</tspan>
+    <tspan x="20" y="82.000" textLength="360" lengthAdjust="spacingAndGlyphs">,,,,,,,::::::::,,,,.,. .;rX2s;:,.:,     irri2A;r;.  ........ ..   ..      ,.,.              ..  </tspan>
+    <tspan x="20" y="88.000" textLength="360" lengthAdjust="spacingAndGlyphs">::,,,,::::::,,,,,..  ,sXs;,          .25A5s3Mr. ;rs,   .,....... .        ..                .   </tspan>
+    <tspan x="20" y="94.000" textLength="360" lengthAdjust="spacingAndGlyphs">,,..,,,,,:,.,.,.   :rA;               A32h:  :AsA :Xr,: ...,  ...                               </tspan>
+    <tspan x="20" y="100.000" textLength="360" lengthAdjust="spacingAndGlyphs">,...,,,,,,,..,  ;rsr:            .ii;XMAiSX   2A5h. :;AX,.........                              </tspan>
+    <tspan x="20" y="106.000" textLength="360" lengthAdjust="spacingAndGlyphs">:,,,,,,,,...  r2r,     .,.     :2hA5Gsi;522h5.23XhAsX3355 . .,.....                             </tspan>
+    <tspan x="20" y="112.000" textLength="360" lengthAdjust="spacingAndGlyphs">::..,,,,,.  ;52.       ,X3iX; ..5h2MAhGh2r3hrHh#rsMA3M3Xi ..,,,,,,.                             </tspan>
+    <tspan x="20" y="118.000" textLength="360" lengthAdjust="spacingAndGlyphs">;::,,,,.. ;AA;        i32MX9h23A2HM@GM@@M:3Hr;r5h;5AA2i2M2,,,,,,..   .                      .,,,</tspan>
+    <tspan x="20" y="124.000" textLength="360" lengthAdjust="spacingAndGlyphs">;::;;:,,iA2:  .    ;55A2H:h#@@#BG32S@@@@@S;h: .3355A52S2i3,::,      ... .                   ,,..</tspan>
+    <tspan x="20" y="130.000" textLength="360" lengthAdjust="spacingAndGlyphs">i;;;::s2Xi  .      ,X23Mh5r#B&amp;@@BS&amp;S9@@&amp;BShrXMMAi3A. :Xrsrrsss;,,  ...     ..       ..  .......,</tspan>
+    <tspan x="20" y="136.000" textLength="360" lengthAdjust="spacingAndGlyphs">i;;:i3X.  .....  iAX5hH#B@BG&amp;@&amp;&amp;&amp;@@@B&amp;&amp;@@@@#s.3sr2:Ai:ri;   iMM255r . ..         .     .,.  ..,,</tspan>
+    <tspan x="20" y="142.000" textLength="360" lengthAdjust="spacingAndGlyphs">ii:rMs .... ..   r9@#&amp;@9B&amp;@&amp;&amp;&amp;B@@@&amp;B@@@@@&amp;BSGAh@Hh..h52M.:irhAAh2r5 .... .            ......,,,,</tspan>
+    <tspan x="20" y="148.000" textLength="360" lengthAdjust="spacingAndGlyphs">r;X2: ,..     .. .&amp;@B&amp;@@&amp;&amp;@@B&amp;@@@&amp;B&amp;@@@&amp;B&amp;@@@&amp;#M9hs5A;H555rAA:rXsisA, ....        .. ,.   .   ,,</tspan>
+    <tspan x="20" y="154.000" textLength="360" lengthAdjust="spacingAndGlyphs">r3X  ......,  .   G@B@&amp;&amp;&amp;@@BB@&amp;@&amp;9&amp;@@@B&amp;@@@@@@BHr AMs;h5sMArs3A:, sH3; ..        ..           .,</tspan>
+    <tspan x="20" y="160.000" textLength="360" lengthAdjust="spacingAndGlyphs">hX.    .....       G@@@@@@@B&amp;B@@9B@@@B&amp;@@&amp;@@&amp;&amp;B5,;iHM2A3XA3:33 ,525srMs ..           .  .    ...</tspan>
+    <tspan x="20" y="166.000" textLength="360" lengthAdjust="spacingAndGlyphs">,......... .        s2M2X9B9B&amp;@&amp;B@@@B&amp;&amp;9@@&amp;B9&amp;#ShXr2XHAAsMs .53r2MX  rs ..,...         ...      </tspan>
+    <tspan x="20" y="172.000" textLength="360" lengthAdjust="spacingAndGlyphs">.,. ..  ,:r: .          ssA#&amp;&amp;@B&amp;9&amp;@B@&amp;&amp;&amp;B#B93rA; rG3,53X2XX  3MhH: .,.,.,....      ..... ...   </tspan>
+    <tspan x="20" y="178.000" textLength="360" lengthAdjust="spacingAndGlyphs">,:,.;:,;;XSX      X5sr .ASHh9@@9&amp;B@BBB&amp;@@BB9s     ,.25X5;s3XX,rh2A53;.,..,.  ..  .    .   ..    </tspan>
+    <tspan x="20" y="184.000" textLength="360" lengthAdjust="spacingAndGlyphs">:,:2HX:i5Ms  .:.  2MXMXA :&amp;@&amp;#AS99BB&amp;@&amp;@&amp;9BX . .   r5r:Gr,.rh3.XA323S,,..,......      ..    ..  </tspan>
+    <tspan x="20" y="190.000" textLength="360" lengthAdjust="spacingAndGlyphs">:A5hA:shhM5i:.22.ihGiAhGsi,s;;AHB&amp;@&amp;@@@@B99:........  .i.  .:5:;5h:.i........     .   ... .     </tspan>
+    <tspan x="20" y="196.000" textLength="360" lengthAdjust="spacingAndGlyphs">.h5;,,.rs323#AAA,rXM::Asr2r;s233GGA5GHB&amp;BB#,  ...  .... ... 2As3A55  ...  .. .        ..........</tspan>
+    <tspan x="20" y="202.000" textLength="360" lengthAdjust="spacingAndGlyphs">H99hs:,,XGXX#srhA5MhAXhrsh3M,5A,.;MhAG@&amp;BBH......    ... ...  rX ;r,:,..:,... .  .   .,...,. ...</tspan>
+    <tspan x="20" y="208.000" textLength="360" lengthAdjust="spacingAndGlyphs">S&amp;&amp;&amp;MGS3MA:5#525AiB@&amp;3hBh&amp;@5,5hM2AH&amp;&amp;9B@B&amp;2.,...  ....,,....,.. ...,,,,.,......  ..  ..,. .,....</tspan>
+    <tspan x="20" y="214.000" textLength="360" lengthAdjust="spacingAndGlyphs">M@@B&amp;@@B,,;2Mh53X G@@&amp;@&amp;@B&amp;#@SrX,MG@B@&amp;@&amp;&amp;X ....   .....,,....,,.,...,..  .  ..  ......,..... ..</tspan>
+    <tspan x="20" y="220.000" textLength="360" lengthAdjust="spacingAndGlyphs">GSMS&amp;&amp;&amp;95rAhA2si: i3hM2X9@&amp;BB99G3#GB@B&amp;@@BG..   .  ... .. . ...........      .. ..,.......  . ..</tspan>
+    <tspan x="20" y="226.000" textLength="360" lengthAdjust="spacingAndGlyphs">5G3G#&amp;&amp;@9A3M2hM:;ir2,i5hG&amp;B&amp;&amp;@&amp;9&amp;S@&amp;@B@&amp;BB9r ... ........ .,. ....... . . .  .....,........   ..</tspan>
+    <tspan x="20" y="232.000" textLength="360" lengthAdjust="spacingAndGlyphs">AS@BB&amp;&amp;#M35XXGHMGXAr;hX3GM99&amp;@B&amp;GG&amp;&amp;&amp;&amp;&amp;BH&amp;93 ,,,.,.,,,..,..,,,.,........... ............... ....</tspan>
+    <tspan x="20" y="238.000" textLength="360" lengthAdjust="spacingAndGlyphs">&amp;G@B#&amp;B#3H5hH5H@&amp;ShH32r2GB@&amp;B&amp;&amp;&amp;&amp;@@@&amp;B9@@@@Bs.,,,..,,,,,,,,,,,,,......:,..,...,,,,,....,,...,...</tspan>
+    <tspan x="20" y="244.000" textLength="360" lengthAdjust="spacingAndGlyphs">&amp;&amp;@@B9&amp;9As#@@B#B&amp;@95iMBB#99@@&amp;B@@M5S@&amp;H9@@Bh#r:::::,:,::::,.,,,,,,,,,,,,,,.,,,,,,:,:,,,::,,,,,:,</tspan>
+    <tspan x="20" y="250.000" textLength="360" lengthAdjust="spacingAndGlyphs">@&amp;&amp;&amp;&amp;#9&amp;&amp;h9&amp;&amp;&amp;BG9@@SS9M9&amp;BBB@GB9;   i5G9B@@B@#Xiiii;;;;:;::::::,,,::::,:::,:,,,:;:;:::;:;;;;;iii</tspan>
+    <tspan x="20" y="256.000" textLength="360" lengthAdjust="spacingAndGlyphs">SB&amp;B9&amp;BBB&amp;@9&amp;B&amp;9#B@&amp;@@&amp;B@@&amp;BB&amp;&amp;;         ;9@&amp;&amp;92XXssrrrriiii;i;i;iiiiiii;;ii;;;;iiiiiriirsssssXX</tspan>
+    <tspan x="20" y="262.000" textLength="360" lengthAdjust="spacingAndGlyphs">5SB&amp;B@&amp;BB&amp;9BBB&amp;@@B9B@@@@&amp;H##@G;           .G&amp;&amp;&amp;9522A5AAAAXXXXXssrssXXXXsXXXXXXsXXXsXXXAAAAA22555</tspan>
+    <tspan x="20" y="268.000" textLength="360" lengthAdjust="spacingAndGlyphs">S53HB&amp;&amp;&amp;&amp;BB&amp;B&amp;&amp;&amp;&amp;@B9B&amp;B&amp;&amp;hSh;               h@&amp;&amp;S55325335555555555555555555522555355553333333hhh</tspan>
+    <tspan x="20" y="274.000" textLength="360" lengthAdjust="spacingAndGlyphs">#M3MM5M9B&amp;B@@@@@B9B@&amp;B9B@@2       .:        X3S@@#MM53MhhhhhhMhhMhMhhhhhh3MHGGhhhhh33hhhhMhhhhMh</tspan>
+    <tspan x="20" y="280.000" textLength="360" lengthAdjust="spacingAndGlyphs">S##G3MHSHMAhH9&amp;&amp;&amp;BB@@@@BH;        ,AA       ,3rAS@@BGHHMMHMMMMMMMHMMMMMMMH3;,2HM3hMMhMMMMMMMMMMh</tspan>
+    <tspan x="20" y="286.000" textLength="360" lengthAdjust="spacingAndGlyphs">GS99SGS32A22hSGHXsGGHh5i         ;A23A,       32 ,5SSH#GHHHHHHHHHHHHMMHGMs     3GMMMHMHHMMMhhMHH</tspan>
+    <tspan x="20" y="292.000" textLength="360" lengthAdjust="spacingAndGlyphs">9HH#9#Ghhh##B9ShB#2,          :;s2MA,          MA  .,.sG#HHHHGGHSSGGGGHr ,   :; rHSGHHHHMHS9##H3</tspan>
+    <tspan x="20" y="298.000" textLength="360" lengthAdjust="spacingAndGlyphs">@&amp;#h#S#B9933B@@#h;            i2rrshh. .        sM;;35.;5SSHMHMHHHHhhhA23&amp;35 rM,  :2GGHHGHMhAsXA</tspan>
+    <tspan x="20" y="304.000" textLength="360" lengthAdjust="spacingAndGlyphs">@&amp;@9h35hH92rXAi          r3A :sAX2rM2AiA3  rX.   iH,AA,, :5S#####S#9H3A5B&amp;@B39&amp;B#G53#BB9AirX22Xi</tspan>
+    <tspan x="20" y="310.000" textLength="360" lengthAdjust="spacingAndGlyphs">M3X;,....,::...,.  .    .3h: ishHsGi  5sX2ir2AXA  rAsM3.   .2H#9&amp;@@@@@&amp;GMS9B&amp;BB&amp;&amp;@@@&amp;&amp;@&amp;S52si:  </tspan>
+    <tspan x="20" y="316.000" textLength="360" lengthAdjust="spacingAndGlyphs">    ...... .22ii;:. .s; A3rA3M22h:ri:.rA2.5r#S2AA  r55SM. #M.  ::ih#99B@@B&amp;&amp;9#9GHHMh2Ar.:, :h2h2</tspan>
+    <tspan x="20" y="322.000" textLength="360" lengthAdjust="spacingAndGlyphs">..,;i:....,,:A3iii:.:hAh2HXHAii:. :3Ash;A2MsH9B3rs. iG#@9rs9#H,r#A. ;iisXXXXsrri:,:: r2rA3HhH5AA</tspan>
+    <tspan x="20" y="328.000" textLength="360" lengthAdjust="spacingAndGlyphs">  :2i;:  .. rA55,rX:  ;A::ih;.     :ssA, 9&amp;MMMG@X33S, 2B@@As9&amp;Gsh@92: .. ,:,:;:;;;:;:;i;.       </tspan>
+    <tspan x="20" y="334.000" textLength="360" lengthAdjust="spacingAndGlyphs">sr53r;,;r iXXhr;ii3X.      ;X2rir ,,Ah2  M9SH#23GHHH#. ;M@@S9&amp;@B5M&amp;@9X,,..,.,.        ;r;   ,.;s</tspan>
+    <tspan x="20" y="340.000" textLength="360" lengthAdjust="spacingAndGlyphs">ihX:;.s&amp;@225A5:s22Mr. ,;   s3 HXsAh55,5, s&amp;&amp;&amp;S9Ms3BBBG5s ,3B&amp;@@@@#3S@@Gs..,.,:;:...,::iA3MM5AXsh</tspan>
+    <tspan x="20" y="346.000" textLength="360" lengthAdjust="spacingAndGlyphs">Ari,;XsG@GXhhii22;r.:,;M; ::322isH:2M;A5: 3@&amp;BB@SXAS9#SSMA:,r5H&amp;@@&amp;HM9@@G2i.. s99Ms;,,.r553HS9B9</tspan>
+    <tspan x="20" y="352.000" textLength="360" lengthAdjust="spacingAndGlyphs">9SShr@##&amp;BMs2MA3X:2X5r;A3.;i;hA33XX2i5A3, .B@&amp;B&amp;@&amp;hrH#SM#9#G3h33H9@@@9B&amp;@@BMAr.:3B@@9HA2MSSSSSGG</tspan>
+    <tspan x="20" y="358.000" textLength="360" lengthAdjust="spacingAndGlyphs">#@@BG@@@BhA5Hs:52hAAG;:2hr5332i2A2MSGsshi. ,S@&amp;B@@@#MS###GGGGS9SM523G9&amp;@@@@@@@93i:AHB@@B#HH9B@BB</tspan>
+    <tspan x="20" y="364.000" textLength="360" lengthAdjust="spacingAndGlyphs">&amp;BB@@hMhA:5rAM5252i;AA.rXX253:,9@HSBGM53AiX; H@&amp;B@@@&amp;ShhMMGGS###G#GMAX5hMS##B&amp;@@@&amp;SM3GB&amp;S&amp;&amp;S9BG&amp;</tspan>
+    <tspan x="20" y="370.000" textLength="360" lengthAdjust="spacingAndGlyphs">&amp;@BBB3 iS9#Gs&amp;@&amp;B2rs,XM5rH2,::.3@@@&amp;h9@h 22X,.h&amp;@@&amp;@@@&amp;S35h3hMMGSS#9MirrrssXAA225hHH#HGBh9BMB@GH</tspan>
+    <tspan x="20" y="376.000" textLength="360" lengthAdjust="spacingAndGlyphs">@99&amp;@9MG9@@@BB&amp;&amp;@99H,rh;.:,  .  r22B@&amp;&amp;M59#r,, ;59@@&amp;&amp;@@&amp;#hh5XrssA525AAA225AXXsrXsrrXh25#hGS5r, </tspan>
+    <tspan x="20" y="382.000" textLength="360" lengthAdjust="spacingAndGlyphs">@9&amp;&amp;@&amp;@&amp;B&amp;&amp;@@@&amp;&amp;&amp;@@&amp;r  i;i9M;  .Mhr33G&amp;99G@Br:s   2#@@@&amp;&amp;&amp;&amp;9GhAi,.,,,:;;;irirrrrAAAA225h5r;;:rAh</tspan>
+    <tspan x="20" y="388.000" textLength="360" lengthAdjust="spacingAndGlyphs">&amp;B@@@&amp;B&amp;&amp;B@@&amp;B@&amp;&amp;@@#s.;s5M@@@A3AM@B3MGB@&amp;&amp;@@BA32s: .XHB@@@@@@@B9#M35hMM5XXA3MGHHMM5si:,   :9@@@@</tspan>
+    <tspan x="20" y="394.000" textLength="360" lengthAdjust="spacingAndGlyphs">@9@@@@B@&amp;&amp;&amp;@&amp;9@&amp;&amp;@BM,rA3#GAHB2G@#H5r2B#MM&amp;@@@BBG32sX. .rAhGS#&amp;@@@@@@@@@@@&amp;9#H32s;:.....,,,.,irA5</tspan>
+    <tspan x="20" y="400.000" textLength="360" lengthAdjust="spacingAndGlyphs">@&amp;&amp;@@@&amp;&amp;@&amp;&amp;&amp;@&amp;&amp;@&amp;@BBGHBH&amp;@M55rrAXhhhr5Ar;A#@@@@@MGGGs2s.s;,:;sXXA2222Asssi;:,,,,;irriiiiiii;:;::</tspan>
+  </text>
+  <path d="M385 32V408" stroke="#7893A6" stroke-opacity="0.2"/>
+  <text x="420" y="82" fill="#EDF2F7" font-size="32" font-weight="600">Till Cornely<tspan dx="12" fill="#8EA8BA" font-size="23" font-weight="400">/ crnly</tspan></text>
+  <path d="M420 120H1058" stroke="#7893A6" stroke-opacity="0.2"/>
+  <text class="label" x="420" y="155">Studying</text>
+  <text class="value" x="562" y="155">Business Informatics &amp;</text>
+  <text class="value" x="562" y="181">Digital Media · HdM</text>
+  <text class="label" x="420" y="221">Foundations</text>
+  <text class="value" x="562" y="221">Python · Linux/WSL · Docker</text>
+  <text class="label" x="420" y="261">Learning</text>
+  <text class="value" x="562" y="261">Go</text>
+  <text class="label" x="420" y="301">Interests</text>
+  <text class="value" x="562" y="301">Platform Engineering · Cloud/DevOps</text>
+  <text class="value" x="562" y="327">Agentic AI · Security</text>
+  <path d="M420 352H1058" stroke="#7893A6" stroke-opacity="0.2"/>
+  <text class="label" x="420" y="385">Next project</text>
+  <text class="value" x="562" y="385">Void <tspan fill="#8EA8BA" font-size="16">· planned</tspan></text>
+  <text x="420" y="413" fill="#8EA8BA" font-size="13">A minimal terminal workspace with notes and a focus timer.</text>
+</svg>
