@@ -1,1 +1,13 @@
-<img src="assets/header.png" alt="Pine Trees in detailed ASCII above About and Projects. Business Informatics &amp; Digital Media student at HdM Stuttgart. Projects: Void, a Go and tmux workspace with persistent notes and an interactive shell; and Focus Timer, a browser timer for small session goals, built with HTML, CSS and JavaScript." width="1100">
+<img src="assets/header.png" alt="Pine Trees in detailed ASCII, with soft edges." width="1100">
+
+## About
+
+Business Informatics & Digital Media student at HdM Stuttgart.
+
+## Projects
+
+- **[Void](https://github.com/crnly/void)** · Go, tmux —
+  A terminal workspace with persistent notes and your own shell side by side.
+- **[Focus Timer](https://github.com/crnly/focus-timer)** · HTML, CSS, JavaScript —
+  A browser timer for setting small goals and working in focused sessions.
+  [Open the timer](https://crnly.github.io/focus-timer/).
