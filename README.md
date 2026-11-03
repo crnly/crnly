@@ -6,8 +6,6 @@ Business Informatics & Digital Media student at HdM Stuttgart.
 
 ## Projects
 
-- **[Void](https://github.com/crnly/void)** · Go, tmux —
-  A terminal workspace with persistent notes and your own shell side by side.
 - **[Focus Timer](https://github.com/crnly/focus-timer)** · HTML, CSS, JavaScript —
   A browser timer for setting small goals and working in focused sessions.
   [Open the timer](https://crnly.github.io/focus-timer/).
