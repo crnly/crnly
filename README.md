@@ -2,10 +2,6 @@
 
 ## About
 
-Business Informatics & Digital Media student at HdM Stuttgart.
+I'm Till, a Business Informatics & Digital Media student at Stuttgart Media University (HdM).
 
-## Projects
-
-- **[Focus Timer](https://github.com/crnly/focus-timer)** · HTML, CSS, JavaScript —
-  A browser timer for setting small goals and working in focused sessions.
-  [Open the timer](https://crnly.github.io/focus-timer/).
+My vocational training gave me a practical, hands-on background. I enjoy working on road bikes and taking them out for a ride. I also like swimming and gaming.
