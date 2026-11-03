@@ -4,4 +4,6 @@
 
 I'm Till, a Business Informatics & Digital Media student at Stuttgart Media University (HdM).
 
-My vocational training gave me a practical, hands-on background. I enjoy working on road bikes and taking them out for a ride. I also like swimming and gaming.
+I trained as a vehicle interior trimmer, mainly working on motorhomes, motorcycle seats and classic cars.
+
+I'm curious by nature and enjoy experimenting and trying new things. I've played football for most of my life. In my free time, I enjoy tinkering with road bikes, cycling, swimming, and sometimes gaming.
